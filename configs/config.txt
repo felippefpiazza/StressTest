@@ -1,0 +1,5 @@
+debug=0
+host=172.16.49.100
+db=stress_test
+user=root
+pass=ferreira
