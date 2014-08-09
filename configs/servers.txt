@@ -1,3 +1,2 @@
 #SERVIDOR 1
-172.16.49.100 felippepiazza cert1.cer ~/COMPRE2
-#clairvoyant.felippe.org	root cert1.cer ~/COMPRE2
+54.87.178.111 root cert1.cer ~/stress
