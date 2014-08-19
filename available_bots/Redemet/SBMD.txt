@@ -1,0 +1,2 @@
+target_url=http://www.viaer.com.br/metartaf_resultado.php
+post_file=SBMD.txt

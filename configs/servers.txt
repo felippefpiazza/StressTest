@@ -1,2 +1,2 @@
 #SERVIDOR 1
-54.87.178.111 root cert1.cer ~/stress
+localhost felippepiazza cert1.cer ~/stress
